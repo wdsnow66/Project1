@@ -5,7 +5,7 @@ tags: [overview, moonwalk]
 ---
 
 The trends in number of schools is demonstrated in the graph.
-!(/images/graph_trends.png)
+![alt text for screen readers](/images/graph_trends.png "Text to show on mouseover")
 
 # Sample heading 1
 ## Sample heading 2
