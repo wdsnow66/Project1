@@ -14,7 +14,16 @@ The trends in number of schools is demonstrated in the graph.
 ##### Sample heading 5
 ###### Sample heading 6
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+  <div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      frameborder="0"
+      width="100%"
+      height="500"
+      src="https://observablehq.com/embed/32d21ba11a926369@113?cell=*">
+  </iframe>
+</div>
+
 
 ## Lists
 
